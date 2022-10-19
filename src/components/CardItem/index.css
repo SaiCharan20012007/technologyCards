@@ -1,0 +1,64 @@
+@media screen and (max-width: 991px) {
+  .card-1 {
+    border-top: 5px solid #ff4f64;
+    border-radius: 10px;
+    width: 80%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .card-1 {
+    border-top: 5px solid #ff4f64;
+    border-radius: 10px;
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .card-2 {
+    border-top: 5px solid #00a8e7;
+    border-radius: 10px;
+    width: 80%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .card-2 {
+    border-top: 5px solid #00a8e7;
+    border-radius: 10px;
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .card-3 {
+    border-top: 5px solid #44c4a1;
+    border-radius: 10px;
+    width: 80%;
+  }
+}
+@media screen and (min-width: 991px) {
+  .card-3 {
+    border-top: 5px solid #44c4a1;
+    border-radius: 10px;
+    width: 40%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .card-4 {
+    border-top: 5px solid #fcc200;
+    border-radius: 10px;
+    width: 80%;
+  }
+}
+@media screen and (min-width: 991px) {
+  .card-4 {
+    border-top: 5px solid #fcc200;
+    border-radius: 10px;
+    width: 40%;
+  }
+}
+
+/* Write CSS code here. */
+li {
+  list-style-type: none;
+  margin: 20px;
+}
